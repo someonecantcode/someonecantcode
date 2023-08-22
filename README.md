@@ -28,10 +28,5 @@
       <img width="32" height="32" src="https://cdn.discordapp.com/attachments/1095274254347546654/1133334372720857100/Roblox_Studio_2022_Flat.png" />
       <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
   </div>
-
-
-<div align="center" >
-  <img height=200 align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png" />
-</div>
        
 <p align="center">🤓</p>
