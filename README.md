@@ -30,5 +30,5 @@ hello, i like to code
   <img align="right" alt="Discord" width="20px" src="/images/discordsvg.svg" />
 </a>
 <a href="mailto: s-btea@lwsd.org">
-  <img align="right" alt="Email" width="21px" src="/images/outlook.svg" />
+  <img align="right" alt="Email" width="21px" src="/images/outlook.png" />
 </a>
