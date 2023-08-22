@@ -26,7 +26,7 @@ hello, i like to code
 
 <p align= "left">🤓</p>
 
-<a href="discordapp.com/users/820122787888889866">
+<a href="https://discordapp.com/users/820122787888889866">
   <img align="right" alt="Discord" width="20px" src="/images/discordsvg.svg" />
 </a>
 <a href="mailto: s-btea@lwsd.org">
