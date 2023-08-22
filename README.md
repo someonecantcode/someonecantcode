@@ -19,8 +19,7 @@
   <div>
   <img width="32" height="32" src="https://luau-lang.org/assets/images/luau-88.png" /> 
   <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" />
-    <img width="32"height="32"src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800pxJava_programming_language_logo.svg.png" />
-
+  <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
   </div>
 
   <h3>tools:</h3>
