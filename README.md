@@ -26,9 +26,9 @@ hello, i like to code
 
 <p align= "left">🤓</p>
 
-<a href="mailto: s-btea@lwsd.org">
-  <img align="right" alt="Email" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 <a href="discordapp.com/users/820122787888889866">
-  <img align="right" alt="Discord" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Discord" width="20px" src="/images/discordsvg.svg" />
+</a>
+<a href="mailto: s-btea@lwsd.org">
+  <img align="right" alt="Email" width="21px" src="/images/outlook.svg" />
 </a>
