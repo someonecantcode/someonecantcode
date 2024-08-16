@@ -1,7 +1,7 @@
 ## Welcome
 
 
-<img align="left" alt="Email" width="21px" src="/images/outlook.png" /> s-btea@lwsd.org
+<img align="left" alt="Email" width="21px" src="/images/outlook.png" /> 1042182@lwsd.org
 
 ***
 
