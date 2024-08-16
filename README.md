@@ -1,10 +1,8 @@
 ## Welcome
-**school account 🤓**
 
+#( <img align="left" alt="Discord" width="20px" src="/images/discordsvg.svg" />
 
-<img align="left" alt="Discord" width="20px" src="/images/discordsvg.svg" />
-
-[someone______________#0060](https://discordapp.com/users/820122787888889866)
+[someone______________#0060](https://discordapp.com/users/820122787888889866))
 
 <img align="left" alt="Email" width="21px" src="/images/outlook.png" /> s-btea@lwsd.org
 
