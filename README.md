@@ -5,9 +5,6 @@
 
 ***
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=someonecantcode&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonecantcode&layout=compact&theme=radical&hide_border=true"/>
-</a>
+<img  src="https://github-readme-stats.vercel.app/api?username=someonecantcode&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonecantcode&layout=compact&theme=radical&hide_border=true"/>
+
