@@ -8,8 +8,7 @@
 ![Metrics](/github-metrics.svg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=someonecantcode&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonecantcode&layout=compact&theme=radical&hide_border=true"/>
-<br>
+
 
 ## Fun Repos
   <p align="left">
