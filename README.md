@@ -7,7 +7,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=someonecantcode&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
 
 
 ## Fun Repos
