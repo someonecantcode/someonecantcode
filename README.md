@@ -7,7 +7,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/820122787888889866?hideBadges=true&hideActivity=true)](https://discord.com/users/820122787888889866)
 
 ## Fun Repos
   <p align="left">
