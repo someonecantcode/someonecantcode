@@ -26,7 +26,9 @@ scoop install vscode
 
 scoop install tinytex
 tlmgr install pgf amsmath amssymb amsthm graphicx csquotes tikz cancel framed
+tlmgr install pgf
 # music stuff
 
 scoop install ffmpeg mpv yt-dlp deno
 Write-Host "All installations complete!"
+
