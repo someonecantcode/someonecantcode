@@ -30,5 +30,7 @@ tlmgr install pgf
 # music stuff
 
 scoop install ffmpeg mpv yt-dlp deno
+scoop install sioyek
 Write-Host "All installations complete!"
+
 
