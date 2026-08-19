@@ -1,7 +1,7 @@
 ## Welcome
 [//]: ![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=flat&logo=neovim&logoColor=a6e3a1)
 
-<img align="left" alt="Email" width="21px" src="/images/outlook.png" /> 1042182@lwsd.org
+<img align="left" alt="Email" width="21px" src="/images/outlook.png" /> btea@uw.edu
 
 ***
 
