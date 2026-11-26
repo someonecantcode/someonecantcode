@@ -22,7 +22,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=Mario64&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false
           path: profile/repo-Mario64.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate nzp repo card
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +30,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=nzp&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false
           path: profile/repo-nzp.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate webXash repo card
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,7 +38,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=webXash&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false
           path: profile/repo-webXash.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit repo cards
         run: |
