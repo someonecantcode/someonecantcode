@@ -2,7 +2,7 @@ name: Update Repo Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 1 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -46,5 +46,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update repo cards" || exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update repo cards"
+          git pull --rebase origin main
           git push
