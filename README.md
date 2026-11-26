@@ -10,10 +10,9 @@
 
 ## Fun Games
 <p align="left">
-     <a href="https://github.com/someonecantcode/Mario64"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=someonecantcode&repo=Mario64&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/someonecantcode/nzp"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=someonecantcode&repo=nzp&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/someonecantcode/webXash"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=someonecantcode&repo=webXash&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/someonecantcode/Mario64"><img width="278" src="./profile/repo-Mario64.svg" alt="Mario64 repository card"></a>
+  <a href="https://github.com/someonecantcode/nzp"><img width="278" src="./profile/repo-nzp.svg" alt="nzp repository card"></a>
+  <a href="https://github.com/someonecantcode/webXash"><img width="278" src="./profile/repo-webXash.svg" alt="webXash repository card"></a>
 </p>
-
 
 
